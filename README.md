@@ -27,11 +27,12 @@ https://www.kaggle.com/datasets/amulyas/penguin-size-dataset/data
 
 Getting Started
 Prerequisites
-Ensure you have Python installed on your system. The following libraries are also required:
-pandas
-numpy
-matplotlib
-seaborn
+Ensure you have Python installed on your system. 
+The following libraries are also required:
+-pandas
+-numpy
+-matplotlib
+-seaborn
 
 Analysis
 The dataset contains measurements from three penguin species: Adelie, Gentoo, and Chinstrap, with various physical characteristics recorded.
