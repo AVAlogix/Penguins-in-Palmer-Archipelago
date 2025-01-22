@@ -10,11 +10,17 @@ Dream Island
 Features
 
 The dataset includes the following features:
+
 Species: The species of the penguin (e.g., Adelie, Chinstrap, Gentoo)
+
 Island: The island where the penguin was observed
+
 Body Mass (g): The body mass of the penguin in grams
+
 Flipper Length (mm): The length of the penguin's flippers in millimeters
+
 Culmen Length (mm): The length of the culmen (upper ridge of a bird's bill) in millimeters
+
 Culmen Depth (mm): The depth of the culmen in millimeters
 
 Project Overview
